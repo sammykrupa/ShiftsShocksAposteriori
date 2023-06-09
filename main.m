@@ -1,4 +1,4 @@
-function [uhatn]=nwwn03(N,T)
+function [uhatn]=main(N,T)
  
 %Input parameters of simulation
 %N= number of cells
